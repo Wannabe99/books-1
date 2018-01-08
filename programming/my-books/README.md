@@ -1,6 +1,6 @@
-# My Books 
+# My Book List
 
-Compilation of books that I work with. 🥕
+Compilation of books that I have worked with. 🥕
 
 ## Content
 
