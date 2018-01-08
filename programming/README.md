@@ -1,5 +1,7 @@
 ### Index
 
+[My Books](my-books)
+
 * [Ada](#ada)
 * [Agda](#agda)
 * [Alef](#alef)
